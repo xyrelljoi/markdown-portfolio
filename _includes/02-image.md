@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![my image](https://octocat-generator-assets.githubusercontent.com/my-octocat-1623720999911.png)
